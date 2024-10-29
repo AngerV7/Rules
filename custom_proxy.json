@@ -1,0 +1,19 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                
+            ],
+            "domain_regex": [
+
+            ],
+            "domain_keyword": [
+
+            ],
+            "domain": [
+                
+            ]
+        }
+    ]
+}

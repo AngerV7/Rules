@@ -1,0 +1,28 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "bochk.com",
+                "airstarbank.com",
+                "livibank.com",
+                "za.group",
+                "openai.com"
+            ],
+            "domain_regex": [
+
+            ],
+            "domain_keyword": [
+                "hsbc",
+                "okx",
+                "bybit",
+                "binance",
+                "claude",
+                "anthropic"
+            ],
+            "domain": [
+                
+            ]
+        }
+    ]
+}
