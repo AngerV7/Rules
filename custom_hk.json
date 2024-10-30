@@ -27,18 +27,15 @@
                 "re.al",
                 "kromascan.com",
                 "larksuite.com",
-                "byteoversea.com",
-                "debank.com",
-                "rabby.io"
+                "byteoversea.com"
             ],
             "domain_regex": [
-                
             ],
             "domain_keyword": [
-                
+                "debank",
+                "rabby"
             ],
             "domain": [
-                
             ]
         }
     ]
