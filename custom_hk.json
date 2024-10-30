@@ -25,14 +25,17 @@
                 "kaiascan.io",
                 "blastscan.io",
                 "re.al",
-                "kromascan.com"
+                "kromascan.com",
+                "larksuite.com",
+                "byteoversea.com",
+                "debank.com",
+                "rabby.io"
             ],
             "domain_regex": [
                 
             ],
             "domain_keyword": [
-                "larksuite",
-                "byteoversea"
+                
             ],
             "domain": [
                 

@@ -3,17 +3,12 @@
     "rules": [
         {
             "domain_suffix": [
-                
             ],
             "domain_regex": [
-
+                
             ],
             "domain_keyword": [
-                "debank",
-                "rabby",
-                "gstatic",
-                "google",
-                "larksuite"
+                
             ],
             "domain": [
                 
