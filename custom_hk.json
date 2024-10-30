@@ -6,14 +6,34 @@
                 ".hk",
                 "debank.com",
                 "magnetcatcat.com",
-                "arbiscan.io"
+                "scorefam.io",
+                "bscscan.com",
+                "seitrace.com",
+                "etherscan.io",
+                "arbiscan.io",
+                "polygonscan.com",
+                "zksync.network",
+                "dextools.io",
+                "dexscreener.com",
+                "coingecko.com",
+                "geckoterminal.com",
+                "ftmscan.com",
+                "chiliscan.com",
+                "gnosisscan.io",
+                "apescan.io",
+                "taikoscan.io",
+                "iota.org",
+                "blockscout.com",
+                "kaiascan.io"
             ],
             "domain_regex": [
                 
             ],
             "domain_keyword": [
                 "larksuite",
-                "byteoversea"
+                "byteoversea",
+                "rabby",
+                "decubate"
             ],
             "domain": [
                 
