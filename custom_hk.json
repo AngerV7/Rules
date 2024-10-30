@@ -4,7 +4,6 @@
         {
             "domain_suffix": [
                 ".hk",
-                "debank.com",
                 "magnetcatcat.com",
                 "scorefam.io",
                 "bscscan.com",
@@ -31,9 +30,7 @@
             ],
             "domain_keyword": [
                 "larksuite",
-                "byteoversea",
-                "rabby",
-                "decubate"
+                "byteoversea"
             ],
             "domain": [
                 
