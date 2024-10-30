@@ -3,7 +3,6 @@
     "rules": [
         {
             "domain_suffix": [
-                ".hk",
                 "magnetcatcat.com",
                 "scorefam.io",
                 "bscscan.com",
