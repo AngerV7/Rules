@@ -22,7 +22,10 @@
                 "taikoscan.io",
                 "iota.org",
                 "blockscout.com",
-                "kaiascan.io"
+                "kaiascan.io",
+                "blastscan.io",
+                "re.al",
+                "kromascan.com"
             ],
             "domain_regex": [
                 
