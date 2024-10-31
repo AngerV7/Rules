@@ -3,6 +3,7 @@
     "rules": [
         {
             "domain_suffix": [
+                "cronoscan.com",
                 "mode.network",
                 "mypinata.cloud",
                 "magnetcatcat.com",
