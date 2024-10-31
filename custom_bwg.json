@@ -17,9 +17,7 @@
                 "bybit",
                 "binance",
                 "claude",
-                "anthropic",
-                "debank",
-                "rabby"
+                "anthropic"
             ],
             "domain": [
             ]
