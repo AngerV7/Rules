@@ -3,6 +3,7 @@
     "rules": [
         {
             "domain_suffix": [
+                "mypinata.cloud",
                 "magnetcatcat.com",
                 "scorefam.io",
                 "bscscan.com",
